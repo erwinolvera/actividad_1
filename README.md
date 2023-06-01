@@ -1,7 +1,8 @@
 # titulo1
 ## titulo2
 
-print "hola mundo"
 ```
+print "hola mundo"
+---
 - elemento1
 - elemento2
